@@ -1,4 +1,4 @@
-An Whle stack of +10 Games Made All in Raylib!!!
+An Whole stack of +10 Games Made All in Raylib!!!
 
 ### Included Titles Directory
 arkanoid • asteroids  •  asteroids_survival
